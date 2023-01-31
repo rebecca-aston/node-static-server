@@ -1,0 +1,2 @@
+# local-dev-static-server
+ 
