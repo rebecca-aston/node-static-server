@@ -1,6 +1,6 @@
 # local-dev-static-server
  
- This is an example hosted so you can get the combined .gitignore for node & visual studio code.
+ This is an example hosted so you can get the combined .gitignore for node & visual studio code. You can also just initialize your node.js repo with a Node gitignore then copy in the contents of your visual studio gitignore to the bottom of the file.
 
  Note this is not intended to be a github page. 
 
