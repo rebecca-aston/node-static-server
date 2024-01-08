@@ -4,10 +4,11 @@
   "description": "A simple express server for serving static files from the public folder",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
-  "engines": {
-    "node": "20.10.0"
+ "engines": {
+    "node": "12.3.0"
   },
   "author": "",
   "license": "ISC",
